@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    background-color: #f26f83;
+    height: 100vh;
+    width: 100vh;
+
+}
+
+.icon-container {
+    color: #1d1654;
+    text-align: center;
+    border: solid;
+    border-radius: 60px;
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.main-icon {
+    color: #1d1654;
+    padding-top: 22px;
+}
+
+.heading {
+    font-size: 13px;
+    margin-top: 30px;
+}
+
+.heading-container {
+    margin-left: 40px;
+    margin-top: 25px;
+    color: #1d1654;
+}
+
+.name {
+    height: 20px;
+}
+
+.vl {
+    border-left: 3px solid #1d1654;
+    ;
+    height: 130px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.right-container {
+    color: #1d1654;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.para {
+    font-size: 10px;
+    height: 5px;
+}
+
+.para2 {
+    font-size: 10px;
+    height: 2px;
+}
+
+.paral {
+    font-size: 10px;
+    height: 5px;
+    margin-bottom: 30px;
+}
+
+.hr {
+    position: absolute;
+    top: 134px;
+    left: 100px;
+    background-color: #1d1654;
+    width: 430px;
+    height: 2px;
+}
+
+.icon-container2 {
+    position: absolute;
+    left: 0px;
+    color: #1d1654;
+    text-align: center;
+    border: solid;
+    border-radius: 60px;
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.year {
+    font-size: 12px;
+    height: 30px;
+}
+
+.heading-container {
+    margin-left: 80px;
+}
+
+.para-year {
+    margin-top: 20px;
+    margin-left: 25px;
+    color: #1d1654;
+    font-size: 10px;
+    height: 1px;
+}
+
+.para-year1l {
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 25px;
+    color: #1d1654;
+    font-size: 10px;
+    height: 1px;
+}
+
+.para-year1 {
+    margin-top: 20px;
+    margin-left: 25px;
+    color: #1d1654;
+    font-size: 10px;
+    height: 1px;
+}
+
+.hr1 {
+    position: absolute;
+    top: 320px;
+    left: 100px;
+    background-color: #1d1654;
+    width: 430px;
+    height: 2px;
+}
+
+.icon-container3 {
+    position: absolute;
+    left: 0px;
+    color: #1d1654;
+    text-align: center;
+    border: solid;
+    border-radius: 60px;
+    height: 50px;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.skills-container {
+    color: #1d1654;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.skills {
+    font-size: 12px;
+    height: 12px;
+}
+
+.circles-container {
+    margin-top: 26px;
+    margin-left: 30px;
+}
+
+.circle-con {
+    margin-top: 20px;
+}
+
+.circle {
+    margin-left: 8px;
+    border-radius: 25px;
+    background-color: #1d1654;
+    height: 8px;
+    width: 8px;
+}
+
+.vl1 {
+    border-left: 3px solid #1d1654;
+    ;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.sub-container3 {
+    color: #1d1654;
+    margin-top: 40px;
+    margin-left: 16px;
+}
+
+.container-a {
+    color: #1d1654;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+
+.para-a {
+    font-size: 9px;
+    font-weight: bold;
+}
+
+.para-b {
+    font-size: 8px;
+}
+
+.hr2 {
+    position: absolute;
+    top: 502px;
+    left: 100px;
+    background-color: #1d1654;
+    width: 430px;
+    height: 2px;
+}
+
+.icon-container-a {
+    background-color: #1d1654;
+    color: #f26f83;
+    text-align: center;
+    border: solid;
+    border-radius: 60px;
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.sub-icon {
+    color: #f26f83;
+    padding-top: 22px;
+}
+
+.hr3 {
+    position: absolute;
+    top: 620px;
+    left: 100px;
+    background-color: #1d1654;
+    width: 430px;
+    height: 2px;
+}
+
+.heading-container-a {
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.right-container3 {
+    color: #1d1654;
+    margin-top: 34px;
+    margin-left: 15px;
+}
